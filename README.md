@@ -6,8 +6,6 @@
 # Files
 
 ### 클라이언트
-   - 동작: main.exe 실행파일 
-            (위치: KMS "03_PoC요약", https://kms.ktds.co.kr:8090/pages/viewpage.action?pageId=146473914)
    - 구성
       `client/main.py` 
          : 녹음 시작 - 실시간 전사/화자분리(spacebar로 일시정지/녹음재개 토글링) - 녹음종료 - 참가자(발화자) 수 입력 - blob에 wav업로드 
