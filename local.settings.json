@@ -1,0 +1,21 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=aimeet;AccountKey=6Vrfnw+Mdl6GF8z822vX8zerN8KS4BcnHl/7hy549Y9w6TzBNHZwcrPBGqarhFS8jCCRn3YdLvhB+AStddc3Dw==;EndpointSuffix=core.windows.net",
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      
+      "SPEECH_KEY": "BFTxWwEp2hSxWM8JwEMXcjJ8A1NUEBBE7zoE0AUGnvNYFWqyGTvwJQQJ99BEAC3pKaRXJ3w3AAAYACOGgwE5",
+      "SPEECH_REGION": "eastasia",  
+      "LOCALE": "ko-KR",
+      "DIARIZATION_ENABLED": "true",
+      
+      "BLOB_ACCOUNT_NAME": "aimeet",
+      "BLOB_CONTAINER_NAME": "meeting",
+      "BLOB_ACCOUNT_KEY": "6Vrfnw+Mdl6GF8z822vX8zerN8KS4BcnHl/7hy549Y9w6TzBNHZwcrPBGqarhFS8jCCRn3YdLvhB+AStddc3Dw==",
+      "CONTAINER_SAS": "https://aimeet.blob.core.windows.net/meeting?sp=racwdli&st=2025-05-23T13:43:46Z&se=2025-12-30T21:43:46Z&sv=2024-11-04&sr=c&sig=7jtY7skRn7%2Fw5Ho20kmzhomKrWs%2BtISpdTGWjEGPp30%3D",
+      
+      "OPENAI_ENDPOINT_URI": "https://aimeetingopenai.openai.azure.com/",
+      "OPENAI_ENDPOINT_KEY": "Dhz8UEq7mVHEYqiiS0fO72Wvydbz9vsvHrIEu9qmf9riowWrKfX3JQQJ99BEACHYHv6XJ3w3AAABACOG8a1C"
+    }
+  }
+  
